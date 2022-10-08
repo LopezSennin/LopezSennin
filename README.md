@@ -1,6 +1,8 @@
-### 👋 Hello there! I'm Eduardo Lopez 
+<h1> Hi there! I'm Eduardo Lopez <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
+<h3 align="left"> My Github Stats:</h3>
 
-<img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=lopezsennin">
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lopezsennin&show_icons=true&count_private=true&theme=dark" alt="subeshb1" /></p>
+<!--- <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=lopezsennin"> -->
 <p>
 ## ❗ Languages ❗
 </p>
